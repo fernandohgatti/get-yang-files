@@ -1,3 +1,6 @@
+# from cisco training
+# i fixed re search
+
 import re
 from ncclient import manager
 
